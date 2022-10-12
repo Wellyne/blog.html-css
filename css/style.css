@@ -1,0 +1,78 @@
+.area-login{
+display: flex;
+height: 25Svh;
+justify-content: center;
+border: 10%;
+background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcBw4rVGYfVilRlJpJIyJsiW_Zx7b7pWD1edVRNzduzmcU_wEHLqUAfGkdr4mOaSVF6-g_zJ_GbU0XxlZiGP7X4aiWbBQS_HbdhgBTE2UkEmYQpTXg14UG5BvthrKGMXYcmfxbX_Id6bKOsywdi5DzvMpyjhzlbd2yOTHjlXrGeAcFIOIPNm1ySORyA/s550/doencas-mentais-direito-auxilio-doenca-aposentadoria-.jpg);
+}
+.login{ 
+width: 100px;
+height: 100px;
+padding: 30px;
+}
+.login form{
+display: grid;
+flex-direction: initial;
+}
+.card{
+width: 200px;
+color: rgb(0, 0, 0);
+}
+.logo img {
+align-items: center;
+height: 70px;
+width: 85px;
+}
+.title img{
+width: 50%;
+height: 100px;
+display: flex;
+height: 50vh;
+justify-content: center;
+border-radius: 49%;
+}
+.backgroundvideo{ 
+height: 314px;
+background-color:rgb(51, 123, 146); 
+display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+align-items: center;
+}
+.icons img{
+align-items: center;
+height: 40px;
+width: 35px;  
+padding: 90%;
+
+}
+.icons{
+background-color:rgb(51, 123, 146) ;
+justify-content: center;
+display: flex;
+}
+ul{
+background-color: salmon;
+}
+.ladoalado{
+display: flex;
+height: 50vh;
+justify-content: center;
+border-radius: 100%;
+}
+.text h2 {
+font-size: 30px;
+margin-left: 20px;
+margin-bottom: 18px;
+color: rgb(0, 0, 0);
+}
+.text p {
+font-weight: 80;
+text-align: left;
+letter-spacing: 1px;
+color: rgb(0, 0, 0);
+font-weight: bold;
+}
+.backgroundvideo iframe {
+margin-right: 50px;
+}
